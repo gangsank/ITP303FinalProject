@@ -1,4 +1,4 @@
 # ITP303FinalProject
-This project facilitates appointment booking for USC Keck Hospital. 
-Many patients face difficulties booking appointments through phone or in-person.
-The project mainly uses HTML, CSS, JavaScript, PHP, and SQL.
+# This project facilitates appointment booking for USC Keck Hospital. 
+# Many patients face difficulties booking appointments through phone or in-person.
+# The project mainly uses HTML, CSS, JavaScript, PHP, and SQL.
